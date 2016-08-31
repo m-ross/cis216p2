@@ -1,0 +1,1 @@
+This program uses dialog boxes to take input from the user in the form of a customer's name, address and number of lathes ordered. It determines how many trucks are needed to ship the specified number of lathes then produces a bill based on the cost of the lathes and trucks. All dimensions are in inches.
